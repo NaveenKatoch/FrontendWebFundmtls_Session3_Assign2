@@ -1,0 +1,21 @@
+	/*README*/
+
+.row p {
+    display: inline-block;
+    vertical-align: middle;    
+}
+
+.row input {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.row img {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.logo{
+
+	margin-left: 5px;
+}
